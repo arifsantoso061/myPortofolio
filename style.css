@@ -21,7 +21,7 @@ time, mark, audio, video {
 }
 
 /*Header Styling*/
-/*Menambahakan latar belakang warna hitam pada navigasi atas*/
+/*Menambahkan latar belakang warna hitam pada navigasi atas*/
 .topnav {
     position: relative;
     background-color: #000000;
